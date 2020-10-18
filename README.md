@@ -1,2 +1,4 @@
-# happy-nlw
-Project NLW03 by Rocketseat
+# Happy
+
+### Conheça um pouco sobre o projeto
+
