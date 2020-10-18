@@ -1,0 +1,18 @@
+HTML -> Hypertext Markup Language
+  header -> Cabeçalho
+  footer -> Rodapé
+  aside -> 
+
+CSS  -> Cascading Style Sheets
+  clamp(valor minimo, valor ideal, valor maximo) 
+  rem, em
+  :root
+  
+JavaScript -> 
+  Variáveis -> 
+  Tipos de dados -> 
+  Objetos ->
+  Funções ->
+  Condições ->
+  Repetições ->
+
